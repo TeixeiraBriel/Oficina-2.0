@@ -30,7 +30,7 @@ Este uma aplicação proposta pela codificar.
 
 - Na raiz renomeio o arquivo .env.example para .env
 
-- No prompt de comando acesse a pasta do projeto e digite o codigo, "composer install", ele importará a pasta "vendor" que não é enviada ao git por ser muito grande.
+- No prompt de comando acesse a pasta do projeto e digite o codigo, "composer instal", ele importará a pasta "vendor" que não é enviada ao git por ser muito grande.
 
 - Digite o comando "php artisan key:generate".
 
