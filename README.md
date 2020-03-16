@@ -4,7 +4,11 @@
 # Sobre
 
  Recebemos na Codificar o contato de um cliente, com os seguintes dizeres:
+
+
 “Olá Codificar, temos uma oficina mecânica e diariamente recebemos diversos pedidos de orçamento por telefone e veículos que chegam até nosso estabelecimento, contudo como fazemos por meio de papel, estamos perdendo diversas oportunidades de vendas, pois os papéis se perdem no meio da bagunça da oficina. Gostaríamos de um sistema simples, onde nossos vendedores pudessem cadastrar e consultar os orçamentos.”
+
+
 Com base neste depoimento, conceituamos um produto denominado Oficina 2.0, que visa facilitar o acompanhamento dos pedidos de orçamento da oficina. Precisamos construir uma prova de conceito, um CRUD, o mais breve possível para concluir a venda do projeto.
 
 
